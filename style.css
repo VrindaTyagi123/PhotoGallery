@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: cornsilk;
+}
+
+#myCarousel{
+    height:50px;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 90%;
+}
+
+.item{
+    width: 100%;
+    height: 900%;
+}
